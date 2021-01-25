@@ -2,6 +2,11 @@
 name = "netpack"
 version = "0.0.1"
 authors = ["qwerty01 <qw3rty01@gmail.com>"]
+description = "Packing traits and implementations geared towards netcode"
+homepage = "https://github.com/qwerty01/netpack"
+documentation = "https://docs.rs/netpack/0.0.1/"
+repository = "https://github.com/qwerty01/netpack"
+readme = "README.md"
 edition = "2018"
 license = "MIT"
 
